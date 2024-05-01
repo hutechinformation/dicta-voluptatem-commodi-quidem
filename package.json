@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@hutechinformation/dicta-voluptatem-commodi-quidem",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/hutechinformation/dicta-voluptatem-commodi-quidem.git"
   },
   "dependencies": {
+    "@hutechinformation/placeat-hic-officiis-saepe": "^1.0.0",
+    "@hutechinformation/repudiandae-dicta-doloribus-quia": "^1.0.0",
+    "coding-course-api": "^0.1.2",
+    "saoviet-caculator": "^0.1.2",
+    "saoviet-caculator-module": "^0.1.1"
   }
 }
